@@ -1,0 +1,6 @@
+Date
+Time of arriving
+Time of leaving
+Name
+Person to visit
+Purpose of vistor
